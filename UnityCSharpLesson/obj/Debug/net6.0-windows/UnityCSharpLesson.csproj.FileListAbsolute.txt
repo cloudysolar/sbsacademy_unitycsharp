@@ -1,0 +1,15 @@
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\UnityCSharpLesson.exe
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\UnityCSharpLesson.deps.json
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\UnityCSharpLesson.runtimeconfig.json
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\UnityCSharpLesson.dll
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\ref\UnityCSharpLesson.dll
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\bin\Debug\net6.0-windows\UnityCSharpLesson.pdb
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.csproj.AssemblyReference.cache
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.GeneratedMSBuildEditorConfig.editorconfig
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.AssemblyInfoInputs.cache
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.AssemblyInfo.cs
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.csproj.CoreCompileInputs.cache
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.dll
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\ref\UnityCSharpLesson.dll
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.pdb
+S:\[] Projects\C#\UnityCSharpLesson\UnityCSharpLesson\obj\Debug\net6.0-windows\UnityCSharpLesson.genruntimeconfig.cache
