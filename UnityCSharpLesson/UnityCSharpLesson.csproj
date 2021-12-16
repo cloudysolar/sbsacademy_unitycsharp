@@ -79,6 +79,34 @@
     <Compile Remove="Lesson02\Lesson02_35.cs" />
     <Compile Remove="Lesson02\Lesson02_36.cs" />
     <Compile Remove="Lesson02\Lesson02_37.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_01.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_02.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_03.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_04.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_05.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_06.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_07.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_08.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_09.cs" />
+    <Compile Remove="Lesson03\Examples\Example03_10.cs" />
+    <Compile Remove="Lesson03\Lesson03_01.cs" />
+    <Compile Remove="Lesson03\Lesson03_02.cs" />
+    <Compile Remove="Lesson03\Lesson03_03.cs" />
+    <Compile Remove="Lesson03\Lesson03_04.cs" />
+    <Compile Remove="Lesson03\Lesson03_05.cs" />
+    <Compile Remove="Lesson03\Lesson03_06.cs" />
+    <Compile Remove="Lesson03\Lesson03_07.cs" />
+    <Compile Remove="Lesson03\Lesson03_08.cs" />
+    <Compile Remove="Lesson03\Lesson03_09.cs" />
+    <Compile Remove="Lesson03\Lesson03_10.cs" />
+    <Compile Remove="Lesson03\Lesson03_11.cs" />
+    <Compile Remove="Lesson03\Lesson03_12.cs" />
+    <Compile Remove="Lesson03\Lesson03_13.cs" />
+    <Compile Remove="Lesson03\Lesson03_14.cs" />
+    <Compile Remove="Lesson03\Lesson03_15.cs" />
+    <Compile Remove="Lesson03\Lesson03_16.cs" />
+    <Compile Remove="Lesson03\Lesson03_17.cs" />
+    <Compile Remove="Lesson03\Lesson03_18.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -152,6 +180,34 @@
     <None Include="Lesson02\Lesson02_35.cs" />
     <None Include="Lesson02\Lesson02_36.cs" />
     <None Include="Lesson02\Lesson02_37.cs" />
+    <None Include="Lesson03\Examples\Example03_01.cs" />
+    <None Include="Lesson03\Examples\Example03_02.cs" />
+    <None Include="Lesson03\Examples\Example03_03.cs" />
+    <None Include="Lesson03\Examples\Example03_04.cs" />
+    <None Include="Lesson03\Examples\Example03_05.cs" />
+    <None Include="Lesson03\Examples\Example03_06.cs" />
+    <None Include="Lesson03\Examples\Example03_07.cs" />
+    <None Include="Lesson03\Examples\Example03_08.cs" />
+    <None Include="Lesson03\Examples\Example03_09.cs" />
+    <None Include="Lesson03\Examples\Example03_10.cs" />
+    <None Include="Lesson03\Lesson03_01.cs" />
+    <None Include="Lesson03\Lesson03_02.cs" />
+    <None Include="Lesson03\Lesson03_03.cs" />
+    <None Include="Lesson03\Lesson03_04.cs" />
+    <None Include="Lesson03\Lesson03_05.cs" />
+    <None Include="Lesson03\Lesson03_06.cs" />
+    <None Include="Lesson03\Lesson03_07.cs" />
+    <None Include="Lesson03\Lesson03_08.cs" />
+    <None Include="Lesson03\Lesson03_09.cs" />
+    <None Include="Lesson03\Lesson03_10.cs" />
+    <None Include="Lesson03\Lesson03_11.cs" />
+    <None Include="Lesson03\Lesson03_12.cs" />
+    <None Include="Lesson03\Lesson03_13.cs" />
+    <None Include="Lesson03\Lesson03_14.cs" />
+    <None Include="Lesson03\Lesson03_15.cs" />
+    <None Include="Lesson03\Lesson03_16.cs" />
+    <None Include="Lesson03\Lesson03_17.cs" />
+    <None Include="Lesson03\Lesson03_18.cs" />
   </ItemGroup>
 
 </Project>
