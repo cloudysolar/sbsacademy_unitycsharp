@@ -20,15 +20,16 @@ namespace UnityCSharpLesson.Lesson04.Examples {
         }
 
         public void ConnectDevice(IDevice device) {
+            string deviceType = "주변장치";
+
             if (device is IInputDevice) {
-                Console.WriteLine("주변기기 {0}(이)가 {1}(으)로 연결되었습니다.", device.getName(), "입력장치");
+                deviceType = "입력장치";
             }
             else if (device is IOutputDevice) {
-                Console.WriteLine("주변기기 {0}(이)가 {1}(으)로 연결되었습니다.", device.getName(), "출력장치");
+                deviceType = "출력장치";
             }
-            else {
-                Console.WriteLine("주변기기 {0}(이)가 {1}(으)로 연결되었습니다.", device.getName(), "주변장치");
-            }
+
+            Console.WriteLine("주변기기 {0}(이)가 {1}(으)로 연결되었습니다.", device.getName(), deviceType);
         }
     }
 }
